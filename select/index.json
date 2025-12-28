@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "舌",
+  "base_artist": "My Hair Is Bad",
+  "createdAt": "2025-12-28T10:11:30.541537Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "舌",
+      "artist": "My Hair Is Bad",
+      "has_synced": true,
+      "path": "select/01_舌_My_Hair_Is_Bad.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "舌 - Shita",
+      "artist": "My Hair Is Bad",
+      "has_synced": true,
+      "path": "select/02_舌_-_Shita_My_Hair_Is_Bad.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "舌",
+      "artist": "My Hair is Bad",
+      "has_synced": false,
+      "path": "select/pl_01_舌_My_Hair_is_Bad.txt"
+    }
+  ]
+}
